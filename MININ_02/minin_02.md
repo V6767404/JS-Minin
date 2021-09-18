@@ -1,4 +1,4 @@
-#Сложный JavaScript простым языком (!)
+# Сложный JavaScript простым языком (!)
 
 ## [Урок 1. JavaScript. Что такое prototype. JavaScript Prototype (English Subs)].
 (https://youtu.be/aQkgUUmUJy4?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT)
