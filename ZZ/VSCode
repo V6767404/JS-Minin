@@ -1,0 +1,20 @@
+rs school
+https://youtu.be/QlJjXx0VUIQ?list=PLzLiprpVuH8ciVrUp_VnW6QkotxzWpCk-&t=160
+    F1 и включить Settings Sync Turn On (в аккаунте microsoft или Github)
+    Расширения
+    Auto Close Tag (добавляет возможность появления автозакрывающего тага)
+    Auto Rename Tag
+    Bracket Pair Colorizer (разные цвета скобок)
+    vscode-icons (икноки типов файлов)
+    Path Intellisense (подсказывает пути при вводе)
+    CSS Peak (определитель классов по наатию Ctrl и на класс - перескакиваем на Css в место класса)
+(!) Live Server (19:00) - лайвсервер менят все по ходу исправления кода моментально
+    Shell launcher (22:45) F1 Shell Launcher и запуск терминала на выбор
+    или Ctrl+тильда вызывает терминалы (если есть в настройках)
+    25:55 EditorConfig for VS Code (сохранение настроек VS Code в репозиторий)
+    27:47 BetterComments (<!-- TODO: BLOCKED -->)
+    29:14 Live Sass Compiler
+    30:55 Prettier - Code formatter (подсветка ошибок)
+    33:05 GitLens - Git superchanged, Git Graph (визуализация графами) - (!) на реальном примере
+
+

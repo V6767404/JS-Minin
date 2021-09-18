@@ -1,0 +1,13 @@
+WebStorm – Полный Курс [2021] (Владлен Минин)
+https://www.youtube.com/watch?v=WlBrhM1_t5k
+
+How to reset Webstorm eval period
+https://youtu.be/1toA21yAWjs
+    Инструкция по сбросу пробного периода:
+    - Зайти в File → Settings → Plugins
+    - Кликнуть на шестерёнку → Manage Plugin Repositories
+    - Добавить адрес https://plugins.zhile.io и нажать ОК
+    - В поле поиска плагинов ввести IDE Eval Reset и установить плагин
+    - В основном меню кликнуть на Help → Eval Reset → Reset → Yes
+    - Перезагрузить IDE
+    - Радоваться новому месяцу
