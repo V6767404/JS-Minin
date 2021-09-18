@@ -1,0 +1,63 @@
+https://rs.school/js/
+https://rs.school/js-stage0/
+
+Курс JavaScript/Front-end2021Q3 Stage#1. Intro
+https://www.youtube.com/watch?v=31GK1mg9mIM
+
+JS/FE 2021 Q3
+https://www.youtube.com/playlist?list=PLzLiprpVuH8ciVrUp_VnW6QkotxzWpCk-
+
+Stage 0 -----------------------------------
+        https://github.com/rolling-scopes-school/tasks/tree/master/stage0
+
+        Weak1	Модуль "Знакомство с RS School".
+        	    Модуль "Профессия JS/Front-end разработчик".
+        	    Модуль "Основы HTML"
+        Weak2	Модуль "Chrome Dev Tools, VS Code, Terminal".
+        	    Модуль "Знакомство с системой контроля версий Git".
+        	    Модуль "Основы CSS".
+        Weak3	Модуль "Проект CV".
+                Модуль "Позиционирование в CSS. Flex".
+        Weak4	Кросс-чек проверка проекта "CV".
+        	    Модуль "Figma"
+        	    Модуль "Проект Museum. Stage 0."
+        Weak5	Кросс-чек проверка проекта "Museum. Stage 0."
+        	    Модуль "Знакомство с JavaScript. Часть 1."
+        Weak6	Модуль "Знакомство с JavaScript. Часть 2."
+        	    Модуль "Функции в JavaScript."
+        Weak7	Модуль "Обьекты и массивы в JavaScript. Основы."
+        Weak8	Модуль "Алгоритмы и Структуры Данных. Часть 1."
+        Weak9	Модуль "Алгоритмы и Структуры Данных. Часть 2."
+        	    Получение сертификата.
+
+Stage 1 (11 недель)--------------------------------------
+        https://github.com/rolling-scopes-school/tasks/tree/master/stage1
+
+        	Знакомство студентов с The Rolling Scopes и RS School.
+        	Git, GitHub, оформление commit и pull request.
+        	Верстка адаптивного макета.
+        	Core JS.
+        	Решения алгоритмических задач.
+        	DOM, DOM Events, Browser API.
+        	Основы NodeJS.
+        	Собеседование по основам HTML/CSS/JS/Алгоритмам.
+        	Проект Match-Match Game на Core JS.
+ Stage 2
+        	OOP.
+        	Asynchronous programming.
+        	TypeScript.
+        	NodeJS.
+        	Подготовка презентации на английском языке.
+        	Собеседование по Core JS.
+ Stage 3
+        	Фреймворк на выбор: React или Angular.
+        	Разработка финального проекта в команде.
+        	Собеседование по фреймворку.
+
+////////////////////////////////////////////////
+15-20 часов в неделю + (3 часа в день каждый)
+Markdown & Git
+    Что такое Markdown (!)
+    https://guides.hexlet.io/markdown/
+    Рекомендации EPAM HR department о содержании CV:
+    https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/git-markdown.md
