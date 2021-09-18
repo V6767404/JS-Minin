@@ -1,10 +1,13 @@
-## Сложный JavaScript простым языком (!)
+### Сложный JavaScript простым языком (!)
 
-### [Урок 1. JavaScript. Что такое prototype. JavaScript Prototype (English Subs)](https://youtu.be/aQkgUUmUJy4?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT)
+#### [Урок 1. JavaScript. Что такое prototype. JavaScript Prototype (English Subs)]
+(https://youtu.be/aQkgUUmUJy4?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT)
 
-###  [Урок 2. JavaScript. Что такое контекст this. Как работает call, bind, apply](https://youtu.be/UGapN-hrekw?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT)
+#### [Урок 2. JavaScript. Что такое контекст this. Как работает call, bind, apply]
+(https://youtu.be/UGapN-hrekw?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT)
 
-### [Урок 3. JavaScript. Что такое замыкания. Как они работают (+ примеры)](https://youtu.be/pahO5XjnfLA?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT)
+### [Урок 3. JavaScript. Что такое замыкания. Как они работают (+ примеры)]
+(https://youtu.be/pahO5XjnfLA?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT)
 
 ### Урок 4. JavaScript. Асинхронность.Что такое Event Loop. JS SetTimeout 0
 https://youtu.be/vIZs5tH-HGQ?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT
