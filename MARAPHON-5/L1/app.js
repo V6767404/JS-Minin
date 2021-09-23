@@ -1,5 +1,9 @@
 const slides = document.querySelectorAll('.slide')
 
+// slides по факту массив
+// slides[2].classList.add('active')
+//
+
 for (const slide of slides) {
     slide.addEventListener('click', () => {
         clearActiveClasses()
@@ -12,3 +16,4 @@ function clearActiveClasses() {
         slide.classList.remove('active')
     })
 }
+

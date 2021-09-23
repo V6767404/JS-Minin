@@ -1,0 +1,45 @@
+RSschool
+https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/cv.md
+Примеры оформления CV https://www.freepik.com/free-photos-vectors/cv-template
+Примеры оформления CV https://www.canva.com/resumes/templates/
+Figma Community. CV https://www.figma.com/community/search?model_type=hub_files&q=cv
+Примеры CV
+https://mserykh.github.io/rsschool-cv/
+https://kusakinvova.github.io/rsschool-cv/
+https://petr9ra.github.io/rsschool-cv/
+https://estydaven.github.io/rsschool-cv/
+https://alexandrdrozdfd.github.io/rsschool-cv/
+https://yuriandev.github.io/rsschool-cv/
+Примеры простые https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/git-markdown.md
+https://annavoloshina.github.io/rsschool-cv/cv
+https://kryvetski-andrei.github.io/rsschool-cv/cv
+https://nikita-resh.github.io/rsschool-cv/cv
+https://themrcrowley.github.io/rsschool-cv/cv
+https://elvinyeka.github.io/rsschool-cv/cv
+https://mrks77.github.io/rsschool-cv/cv
+Примеры видеорезюме
+https://www.youtube.com/watch?v=3j2vEycHWhs
+https://www.youtube.com/watch?v=a_KLPUaDi4g
+https://www.youtube.com/watch?v=cQVWIw85OAs
+https://www.youtube.com/watch?v=A426pZuQIUk
+https://www.youtube.com/watch?v=8QIDUvjnbM8
+https://www.youtube.com/watch?v=NNlEKrpeByM
+https://www.youtube.com/watch?v=01wkFZnmflo
+https://www.youtube.com/watch?v=CLTbVVw85hw
+
+Рекомендации EPAM HR department о содержании CV:
+    https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/git-markdown.md
+1. Имя и фамилия
+2. Контакты для связи
+3. Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
+4. Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+5. Примеры кода
+6. Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.
+7. Образование (включая курсы, семинары, лекции, онлайн-обучение)
+8. Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+Обратите внимание.
+CV составляется на английском языке.
+при составлении CV рекомендуется указывать реальные данные
+контакты для связи укажите актуальные: они могут использоваться будущим работодателем, ментором, студентами RS School, проверяющими ваши работы в ходе cross-check
+в качестве примера кода добавьте собственное решение задачи с сайта Codewars, он нужен, чтобы вы научились пользоваться подсветкой кода в markdown
+рекомендуется добавить к CV созданное вами небольшое видеорезюме на английском языке. Продолжительность видео 3-5 минут (±15 секунд). В описание видео на YouTube добавьте его транскрипцию на английском языке. Снять данное видео полезно, так как оно развивает ваши навыки самопрезентации и английского языка. В markdown добавляется ссылка на видео, в html-документ, видео встраивается.
