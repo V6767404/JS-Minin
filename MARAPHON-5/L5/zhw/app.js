@@ -3,6 +3,7 @@ const screens = document.querySelectorAll('.screen')
 const timelist = document.querySelector('#time-list')
 const timeEl = document.querySelector('#time')
 const board = document.querySelector('#board')
+const colors = ['red', 'blue', 'green', 'yellow','purple']
 let time = 0
 let score = 0
 
@@ -69,6 +70,7 @@ function finishGame() { // 28:40
 function createRandomCircle () { // 18:40
     const circle = document.createElement('div') // создание html div circle
     const size = getRandomNumber(10, 60)
+    
     //  const x = 150
     //  const y = 200
     const {width, height} = board.getBoundingClientRect() // 24:07 - 26:35
@@ -80,6 +82,9 @@ function createRandomCircle () { // 18:40
     circle.style.height = `${size}px`
     circle.style.top = `${y}px`
     circle.style.left = `${x}px`
+    circle.style.width = `${size}px`
+    //circle.style.background = `${getRandomColor()}`
+    setColor(circle)
     // помещаем div circle в div c id=board
     // для начала получаем элемент const board = document.querySelector('#board')
     board.append(circle)
@@ -88,3 +93,18 @@ function createRandomCircle () { // 18:40
 function getRandomNumber(min, max) {  //21:52 
   return Math.round(Math.random() * (max -min) + min)
 }
+
+function setColor(element) {
+    const color = getRandomColor()
+    const color2 = getRandomColor()
+    const color3 = getRandomColor()
+    // element.style.background = color
+    element.style.background = `linear-gradient(90deg, ${color} 0%, ${color2} 47%, ${color3} 100%)`
+ }
+ 
+function getRandomColor() {  
+    
+    const index = Math.floor(Math.random() * colors.length)
+    return colors[index] 
+    
+ }
