@@ -1,34 +1,34 @@
 ПЛЕЙЛИСТЫ
 
-##JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
+## JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
 https://youtu.be/Bluxbh9CaQ0
 
-##Что нового в JavaScript 2020? 
+## Что нового в JavaScript 2020? 
 29 мая 2020 г.
 https://www.youtube.com/watch?v=7TpAN4FISeI
 
-#ПРАКТИКА JAVASCRIPT
+# ПРАКТИКА JAVASCRIPT
 Модальное окно на ЧИСТОМ JS + CSS. Урок 1 18 февр. 2020 г.
 https://www.youtube.com/watch?v=FX2fiUvrYP4&list=PLqKQF2ojwm3n-ufn3E-l6Y0VxDrj3hM5M
 
-#TypeScript
+# TypeScript
 Продвинутый TypeScript. Декораторы, Компилятор, Generic Types, Namespaces. 12 дек. 2019 г.
 https://www.youtube.com/watch?v=7NU6K4170As&list=PLqKQF2ojwm3nW-cQeSER79xdpK3vL5c-g
 
-#JAVASCRYPT
+# JAVASCRYPT
 JavaScript ES6 - Полный курс за 2 часа [2020].  22 окт. 2019 г.
 https://www.youtube.com/watch?v=Ti2Q4sQkNdU&list=PLqKQF2ojwm3llpxoP1rzoz7TE2Fpo4Zhp&index=1
 
-#Сложный JavaScript простым языком (!)
+# Сложный JavaScript простым языком (!)
 Урок 1. JavaScript. Что такое prototype. JavaScript Prototype (English Subs). 31 мая 2019 г.
 https://www.youtube.com/watch?v=aQkgUUmUJy4&list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT
 
-##Решение задач на собеседования
+## Решение задач на собеседования
 19 июн. 2019 г. Angular 8 + RxJS. Приложение Органайзер С Нуля (Для Опытных!) 19 июн. 2019 г.
 https://www.youtube.com/watch?v=NaZwVUHnmfE&list=PLqKQF2ojwm3l7NP0SVit92Nljncf9wOyk
 
 
-##<span style="color:red">Подготовка к JavaScript собеседованию</span>.
+## <span style="color:red">Подготовка к JavaScript собеседованию</span>.
 2 окт. 2019 г. https://youtu.be/M_pclb-58ZY
 
 ----
