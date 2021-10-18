@@ -1,0 +1,68 @@
+
+pretkel.maksim@gmail.com
+Hi Team,
+
+You may find our slides here:
+https://drive.google.com/drive/folders/12AxQDO260UL56s2GDFAq2SgBKKV6hwMk?usp=sharing
+
+Our Skype group: https://join.skype.com/oxFceaSj5DzJ
+
+During our next lecture we will discuss how to work with requirements and ask questions.
+Then you will be able to discuss requirements for the future product (Calculator) with the customer (me).
+I am sending you a short description of the calculator- attached. I hope you will have a lot of questions to clarify with the customer.
+Please, be prepared with the list of questions (about functionality and non-functional features).
+Please, skip questions about UI (fonts and colors).
+
+As a reply to this email,
+Send me the list of questions to clarify (in a mail body!)
+Dead-line – our next class, we will discuss it.
+
+
+Thanks,
+Maksim Pretkel
+Manager, Engineering Services
+Rocket Software
+77 Fourth Avenue ∙ Waltham, MA ∙ 02451
+T: +1 9785480540 ∙ E: pretkel.maksim@gmail.com ∙ W: www.rocketsoftware.com
+
+
+
+12 окт. 2021 г.
+Hi, Maksim
+
+Can you settle some questions about calculator?
+Business requirements
+1.    Won’t be the opportunity to add some additional functions to calculator
+2.    Can we see calculator mockup
+3.    What is the deadline of a project?
+4.    Will it be
+-      Desktop application
+-      Mobile application
+-      Web application
+5.    What language will we use to develop
+6.    How turn on the calculator:
+-      Launch of application
+-      url
+-      interface with menu button
+User stories
+1.    What is the default mode?
+2.    How to switch to other mode?
+3.    Is it the app for what devices?
+4.    How turn on the calculator:
+-      Launch of application
+-      url
+-      interface with menu button
+-      cmd
+5.    How the calculator closes?
+6.    What are shortcut keys for calculator?
+Functional requirements
+1.    What is the digit capacity of the calculator
+2.    Will expand to full screen
+3.    Can I use Copy / Paste for pasting values?
+Non-functional requirements
+1.    What operation systems does it run on?
+2.    How numbers and operations can be entered: touchpad / keyboard
+
+
+Best regards,
+Kate Evtihevich
