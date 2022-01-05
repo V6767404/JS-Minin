@@ -36,3 +36,32 @@ function capitalizeWord(word) {
 
 //4 https://www.codewars.com/kata/century-from-year
 //Given a year, return the century it is in.
+// https://stackoverflow.com/questions/52030180/getting-century-from-year/52691787
+
+//Math.floor() - округление вниз. Округляет аргумент до ближайшего меньшего целого.
+//Метод Math.ceil() - округление вверх. Округляет аргумент до ближайшего большего целого.
+
+function century(year) {
+    return Math.floor((year + 99) / 100);
+    //return Math.ceil(year/100);
+}
+//
+function century(year) {
+    var x = Math.floor((year-1)/100) + 1;
+    return x;
+}
+//
+function century(year) {
+    var x = Math.floor(year / 100);
+    if (year % 100 === 0)
+        return x;
+    else
+        return x + 1;
+}
+//
+const century = year => Math.ceil(year/100)
+//
+function century(year) {
+    return (year + 99) / 100 | 0;
+}
+
