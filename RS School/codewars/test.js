@@ -36,26 +36,52 @@
 //
 //
 // fakeBin("4534545345");
+//
+//     function digits(n) {
+        // count = 0;
+        // while (n > 0) {
+        //     if (n % 10) count += 1;
+        //     n = (n - (n % 10)) /10;
+        // }
+//
+//        // str = n.toString()
+//        //  z = str.length
+//         z = n.toString().length
+//        // return count;
+//         console.log(z);
+//     }
+//       //   console.log(n % 10);
+//       //   m = n % 10;
+//       // //  m = n - (n % 10);
+//       //   z= n-8;
+//       //   console.log(z);
+//       //   console.log(z % 10);
+//       //   console.log(n);
+//       //   n = n-(n%10);
+//       //   console.log(n);
+//       //
+//     // }
+//
+// digits(9876543210)
+//
+//         function opposite(number) {
+//           //  return number;
+//             console.log(-number);
+//         }
+//
+// opposite(1)
 
-    function digits(n) {
-        count = 0;
-        while (n > 0) {
-            if (n % 10) count += 1;
-            n = (n - (n % 10)) /10;
-        }
-       // return count;
-        console.log(count);
+function removeChar(str){
+    //You got this!
+    outputString = "";
+    for (var i = 1; i < str.length-1; i++) {
+
+        outputString += str[i];
+
     }
-      //   console.log(n % 10);
-      //   m = n % 10;
-      // //  m = n - (n % 10);
-      //   z= n-8;
-      //   console.log(z);
-      //   console.log(z % 10);
-      //   console.log(n);
-      //   n = n-(n%10);
-      //   console.log(n);
-      //
-    // }
+    return outputString;
+   // console.log(outputString);
 
-digits(9876543210)
+};
+
+removeChar("victor");

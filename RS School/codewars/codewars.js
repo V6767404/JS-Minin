@@ -203,11 +203,54 @@ var areaLargestSquare = r => r**2 + r**2
 //11	https://www.codewars.com/kata/number-of-decimal-digits
 // Number of Decimal Digits
 function digits(n) {
-    count = 0;
-    while (n > 0) {
-        if (n % 10) count += 1;
-        n = n - (n % 10);
+     return n.toString().length;
+   // return String(n).length
+  //  return `${n}`.length;
+}
+//
+function digits(n) {
+    // code goes here
+    var count = 0;
+    if (n >= 0) count=1;
+
+    while (n / 10 >= 1) {
+
+        n /= 10;
+        count++;
     }
     return count;
-    // code goes here
 }
+//12	https://www.codewars.com/kata/opposite-number
+// Opposite number
+function opposite(number) {
+    return -number;
+}
+
+//13	https://www.codewars.com/kata/perimeter-sequence
+// Perimeter sequence
+function perimeterSequence(a,n) {
+    return a*n*4;
+}
+
+// 14	https://www.codewars.com/kata/remove-first-and-last-character
+Remove First and Last Character
+
+function removeChar(str){
+
+    outputString = "";
+    for (var i = 1; i < str.length-1; i++) {
+        outputString += str[i];
+    }
+    return outputString;
+    // console.log(outputString);
+}
+//
+function removeChar(str) {
+    return str.slice(1, -1);
+}
+//
+function removeChar(str){
+    return str.substring(1, str.length-1);
+}
+//
+removeChar = str => str.slice(1,-1)
