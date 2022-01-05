@@ -1,0 +1,26 @@
+L06 16 10 Управление тестами и тестовыми сценариями
+https://www.youtube.com/watch?v=GPrjSg1fI1Q&list=PLcxinMQ6yB5Rq2vfDVNXhsfMVRK-WI0pl&index=6
+
+
+[SFT][TFN][GROUP7][DAY6] – Управление тестами 16 окт. 2021 г., 16:59
+
+Hi Team,​
+
+ Your home task the following:
+- Create your own TestRail cloud trial instance.
+- Create your project, name it like “Group7_FirstName_LastName_Project”
+- Under your project create Test Suite with name “FirstName_LastName_Test_Suite”.
+- Add the smoke tests  test cases to this test suite.
+- Under the same project create Test Run (s) (or Test Plan) with name “FirstName_LastName_Test_Run”, include all test cases from your Test Suite in order to execute them on different landscapes (Win XP, Win 7 and Win 10).
+
+Deadline is our next class.
+
+As a result, please, send me link to your TestRail instance with login/password(set password “Group7password!”) to connect.
+
+Good luck!
+
+Maksim Pretkel
+Manager, Engineering Services
+Rocket Software
+77 Fourth Avenue • Waltham, MA • 02451
+T: +1 9785480540 • E: pretkel.maksim@gmail.com • W: www.rocketsoftware.com
