@@ -21,3 +21,9 @@
       return num + 1;
     };
 ```
+linebreak
+https://gist.github.com/shaunlebron/746476e6e7a4d698b373
+Extended Syntax
+https://www.markdownguide.org/extended-syntax/
+Syntax guidance for basic Markdown usage
+https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops#:~:text=Markdown%20files%20or%20widgets,to%20begin%20a%20new%20paragraph.
