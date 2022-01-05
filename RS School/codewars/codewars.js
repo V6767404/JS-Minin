@@ -1,3 +1,11 @@
+// Codewar part1
+// https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars/preschool-2022-codewars1.md
+// Числа https://learn.javascript.ru/number
+// Строки https://learn.javascript.ru/string
+// https://learn.javascript.ru/number
+// https://www.codewars.com/users/V6767404
+
+
 //1. https://www.codewars.com/kata/function-1-hello-world
 // https://bokki.org/codewars/8kyu/8kyu-hello-name-or-world/
 
@@ -43,7 +51,7 @@ function capitalizeWord(word) {
 
 function century(year) {
     return Math.floor((year + 99) / 100);
-    //return Math.ceil(year/100);
+    // return Math.ceil(year/100);
 }
 //
 function century(year) {
@@ -74,4 +82,132 @@ function century(year) {
 
     return rem === 0 ? cen : cen + 1;
 }
+//5 https://www.codewars.com/kata/convert-a-number-to-a-string
+
+function numberToString(num) {
+    // Return a string of the number here!
+    let str = num.toString();
+    return str;
+}
+// let num = 75;
+// let z = num.toString();
+// console.log(z+5);
+// console.log(num+5);
+
+function numberToString(num) {
+    return num.toString();
+}
+
+//6	https://www.codewars.com/kata/convert-a-string-to-a-number
+//Для явного преобразования к числу можно использовать + или Number(). Если строка не является в точности числом, то результат будет NaN
+// Функция parseInt возвращает целое число, а parseFloat возвращает число с плавающей точкой
+
+var stringToNumber = function(str) {
+    return +str;
+    // return Number(str);
+    // return parseInt(str);
+};
+    // const stringToNumber = str => Number(str)
+    // stringToNumber = parseInt;
+    // var stringToNumber = Number;
+
+//7	https://www.codewars.com/kata/convert-to-binary
+// https://medium.com/@dubbsong/tobinary-js-8kyu-97-34e95db9675e
+
+function toBinary(n){
+    return +n.toString(2);
+    // return Number(n.toString(2));
+    // return parseInt(n.toString(2));
+}
 //
+const toBinary = n => (n >>> 0).toString(2)
+//
+function largestPowerOf(n, number) {
+    var p = number;
+    while (p < n) { p *= number; }
+    return p
+}
+
+function toBinary(n) {
+    var binaryString = '';
+    var power = largestPowerOf(n, 2)
+    while (power >= 1) {
+        if (n - power >= 0) {
+            n -= power;
+            binaryString += '1';
+        } else {
+            binaryString += '0';
+        }
+        power /= 2;
+    }
+    return parseInt(binaryString)
+}
+
+//8	https://www.codewars.com/kata/even-or-odd
+
+function even_or_odd(number) {
+    if (number % 2 === 0) return "Even";
+    return "Odd";
+}
+//
+function even_or_odd(number) {
+    return number % 2 ? "Odd" : "Even"
+    // return number % 2 === 0 ? 'Even' : 'Odd';
+}
+//
+const even_or_odd = n => (n % 2) ? 'Odd' : 'Even';
+
+//9	https://www.codewars.com/kata/fake-binary/javascript
+// Fake Binary
+//Given a string of digits, you should replace any digit below 5 with '0' and any digit 5 and above with '1'. Return the resulting string.
+// https://bokki.org/codewars/8kyu/8kyu-fake-binary/
+// https://forum.freecodecamp.org/t/help-w-algorithm/157400
+// https://github.com/michan94/codewars/blob/master/Solutions/Python/fakeBinary.md
+
+function fakeBin(x) {
+    var outputString = "";
+
+    for (var i = 0; i < x.length; i++) {
+        if (Number(x[i]) <= 4) {
+            outputString += "0";
+        } else {
+            outputString += "1";
+        }
+    }
+    return outputString;
+    // console.log (outputString);
+}
+//
+function fakeBin(x){
+    return x.split('').map((num) => num > 4 ? 1 : 0).join('');
+}
+//
+function fakeBin(x) {
+    return x.replace(/\d/g, d => d < 5 ? 0 : 1);
+}
+
+//10 https://www.codewars.com/kata/largest-square-inside-a-circle
+// Largest Square Inside A Circle
+// Determine the area of the largest square that can fit inside a circle with radius r.
+// S = 2R^2 //Math.pow(n, power)
+
+function areaLargestSquare(r) {
+    s = 2 * Math.pow(r, 2)
+    return s;
+}
+//
+const areaLargestSquare = (r) => r*r*2;
+//
+var areaLargestSquare = r => r**2 + r**2
+
+//11	https://www.codewars.com/kata/number-of-decimal-digits
+// Number of Decimal Digits
+function digits(n) {
+    count = 0;
+    while (n > 0) {
+        if (n % 10) count += 1;
+        n = n - (n % 10);
+    }
+    return count;
+    // code goes here
+}
